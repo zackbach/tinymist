@@ -945,6 +945,7 @@
         "scopeName": "source.typst",
         "path": "./out/typst.tmLanguage.json",
         "tokenTypes": {
+          "markup.math.typst": "string",
           "punctuation.definition.string.begin.math.typst": "other",
           "punctuation.definition.string.end.math.typst": "other"
         },
@@ -970,6 +971,7 @@
         "scopeName": "source.typst-code",
         "path": "./out/typst-code.tmLanguage.json",
         "tokenTypes": {
+          "markup.math.typst": "string",
           "punctuation.definition.string.begin.math.typst": "other",
           "punctuation.definition.string.end.math.typst": "other"
         },
